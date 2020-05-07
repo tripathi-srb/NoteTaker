@@ -1,0 +1,16 @@
+.blueGrey
+{
+	background: #607d8b!important;
+}
+
+.btn-primary1 {
+    color: #fff;
+    background-color: #607d8b;
+    border-color: #607d8b;
+}
+
+.btn-primary1:hover {
+    color: #fff;
+    background-color: #78909c;
+    border-color: #0062cc;
+}
